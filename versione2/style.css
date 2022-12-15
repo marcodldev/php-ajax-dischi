@@ -1,0 +1,29 @@
+header {
+    background-color: #424242;
+    
+}
+
+.cardgrey {
+    background-color: #424242 !important;
+    color: #1d2630;
+    width: 110px !important;
+    max-height: 200px !important;
+    min-height: 200px !important;
+}
+
+.fonts {
+   font-size: 10px !important; 
+   text-align: center;
+}
+
+header img {
+    width: 20px;
+}
+
+main {
+    background-color:#1E2D3B ;
+}
+
+.card  img{
+ 
+}
