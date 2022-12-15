@@ -22,4 +22,6 @@ header img {
 
 main {
     background-color:#1E2D3B ;
+    height: calc( 100vh - 24.5px) !important;
 }
+

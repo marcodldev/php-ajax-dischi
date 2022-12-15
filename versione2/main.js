@@ -6,8 +6,8 @@ var app = new Vue({
     mounted() {
         axios.get('./db/index.php')
             .then( (res) => {
-                dataBase = res.data,
-                console.log(dataBase)
+                this.dataBase = res.data,
+                console.log(this.dataBase)
             })
     },
     methods: {
