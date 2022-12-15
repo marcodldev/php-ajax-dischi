@@ -7,8 +7,8 @@ header {
     background-color: #424242 !important;
     color: #1d2630;
     width: 110px !important;
-    max-height: 200px !important;
-    min-height: 200px !important;
+    max-height: 19% !important;
+    min-height: 19% !important;
 }
 
 .fonts {
@@ -25,3 +25,8 @@ main {
     height: calc( 100vh - 24.5px) !important;
 }
 
+.calc {
+    width: calc(100% / 3 ) !important;
+}
+
+/* flex-wrap justify-content-between justify-content-center */
